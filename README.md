@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # CSV to HTML Table
 
 Display any CSV file as a searchable, filterable, pretty HTML table. Done in 100% JavaScript.
@@ -132,3 +134,4 @@ Report it here: https://github.com/derekeder/csv-to-html-table/issues
 ## Copyright
 
 Copyright (c) 2015 Derek Eder. Released under the [MIT License](https://github.com/derekeder/csv-to-html-table/blob/master/LICENSE).
+>>>>>>> cddc99a3b52f5d57929a18170e846c5a35b87ce9

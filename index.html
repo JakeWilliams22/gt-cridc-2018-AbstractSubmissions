@@ -52,7 +52,8 @@
     <script type="text/javascript">
       function format_link(link){
         if (link)
-          return "<a href='" + link + "' target='_blank'>" + link + "</a>";
+          split = link.split("sangIsCool")
+          return "<a href='" + link[1] + "' target='_blank'>" + link[0] + "</a>";
         else
           return "";
       }
